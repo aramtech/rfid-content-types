@@ -1,0 +1,17 @@
+{
+    "name": "rfid-content-types",
+    "deps": {
+        "api-client": {
+            "owner": "aramtech",
+            "repo": "api-client",
+            "update_policy": "major",
+            "version": "0.5.0"
+        }
+    },
+    "public_repo": true,
+    "private": false,
+    "hash": "oSAC6qBufl67lHU1VtDFGu1RiaZcY2R4F-RDCllTUic",
+    "owner": "aramtech",
+    "version": "0.1.4",
+    "description": ""
+}
